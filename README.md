@@ -1,5 +1,5 @@
-# OpenAI Gym Mountain Car Sample
-A car is on a one-dimensional track, positioned between two "mountains". The goal is to drive up the mountain on the right; however, the car's engine is not strong enough to scale the mountain in a single pass. Therefore, the only way to succeed is to drive back and forth to build up momentum.
+# Blue River Controls - QubeSwingupEnv
+[Link to Blue River Controls](https://github.com/BlueRiverTech/quanser-openai-driver)
 
 ## WEB GUIDE
 
